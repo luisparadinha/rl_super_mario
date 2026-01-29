@@ -66,6 +66,8 @@ stable-baselines3==1.8.0
 stack-data==0.6.3
 sympy==1.14.0
 torch==2.10.0
+torchaudio==2.10.0+cu130
+torchvision==0.25.0+cu130
 tornado==6.5.4
 tqdm==4.67.1
 traitlets==5.14.3
